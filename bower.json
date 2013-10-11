@@ -1,0 +1,15 @@
+{
+    "name": "angular-cordova-ready-service",
+    "version": "0.0.1",
+    "main": "src/service.js",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "components"
+    ],
+    "dependencies": {
+        "angular": "~1.2.0-rc.2",
+        "angular-resource": "~1.2.0-rc.2",
+        "angular-mocks": "v1.2.0-rc.2"
+    }
+}

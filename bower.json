@@ -1,5 +1,5 @@
 {
-  "name": "angular-cordova-ready-service",
+  "name": "angular-cordova-ready",
   "version": "0.0.3",
   "main": "src/service.js",
   "ignore": [

@@ -1,7 +1,7 @@
 {
   "name": "angular-cordova-ready",
   "version": "0.0.3",
-  "main": "src/service.js",
+  "main": "src/angular-cordova-ready.js",
   "ignore": [
     "**/.*",
     "node_modules",

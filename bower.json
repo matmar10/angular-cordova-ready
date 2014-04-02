@@ -1,6 +1,6 @@
 {
   "name": "angular-cordova-ready",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "src/angular-cordova-ready.js",
   "ignore": [
     "**/.*",
